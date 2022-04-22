@@ -1,7 +1,7 @@
 # Statista Assignment
 
 - [Project Setup](#project-setup)
-- [Unit-Tests](#unit-tests)
+- [Unit Tests](#unit-tests)
 
 ## Project Setup
 
